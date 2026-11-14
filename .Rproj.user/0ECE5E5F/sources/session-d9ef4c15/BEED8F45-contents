@@ -1,3 +1,0 @@
-for (folder in c("scripts", "data", "figures", "results")) {
-  dir.create(folder, showWarnings = FALSE)
-}
