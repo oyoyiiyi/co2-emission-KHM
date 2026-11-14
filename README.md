@@ -10,7 +10,7 @@ Author: Elaika A. Velonta
 - To determine the annual percentage change in CO2 emissions.
 - To visualize the trends using graphs generated in RStudio.
 
-- 1. Research Question
+1. Research Question
 
 How have Cambodia's annual CO₂ emissions, CO₂ emissions per capita, and annual percentage changes in CO₂ emissions changed from 1990 to 2024?
 
