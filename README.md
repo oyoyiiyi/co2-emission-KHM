@@ -32,15 +32,15 @@ The dataset contains information about CO2 emissions and related variables. The 
 
 ### 1. Annual CO2 Emissions
 
-![Annual CO2 Emissions](figures/KHM_annual_co2.png)
+![Annual CO2 Emissions](figures/01_annual_co2_emissions.png)
 
 ### 2. CO2 Emissions Per Capita
 
-![CO2 Emissions Per Capita](figures/KHM_per_capita.png)
+![CO2 Emissions Per Capita](figures/02_co2_per_capita.png)
 
 ### 3. Annual Percentage Change in CO2 Emissions
 
-![Annual Percentage Change](figures/KHM_annual_change.png)
+![Annual Percentage Change](figures/03_annual_percentage_change.png)
 
 ## Tools Used
 
@@ -60,3 +60,5 @@ The dataset contains information about CO2 emissions and related variables. The 
 ## Author
 
 CO2 Emissions Analysis Project - Cambodia (KHM)
+
+
